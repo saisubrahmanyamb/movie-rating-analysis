@@ -116,9 +116,8 @@ Several visualizations were created to understand movie trends and patterns.
 
 Shows the distribution of movie ratings.
 
-```markdown
+
 ![IMDb Rating Distribution](images/imdb_rating_distribution.png)
-```
 
 ---
 
@@ -126,9 +125,8 @@ Shows the distribution of movie ratings.
 
 Displays the most common movie genres.
 
-```markdown
+
 ![Top Genres](images/top_genres.png)
-```
 
 ---
 
@@ -136,9 +134,7 @@ Displays the most common movie genres.
 
 Shows directors with highest number of movies.
 
-```markdown
 ![Top Directors](images/top_directors.png)
-```
 
 ---
 
@@ -146,9 +142,7 @@ Shows directors with highest number of movies.
 
 Analyzes relationship between movie runtime and ratings.
 
-```markdown
 ![Runtime vs Rating](images/runtime_vs_rating.png)
-```
 
 ---
 
@@ -156,9 +150,7 @@ Analyzes relationship between movie runtime and ratings.
 
 Displays movies with highest revenue.
 
-```markdown
 ![Top Grossing Movies](images/top_grossing_movies.png)
-```
 
 ---
 
@@ -166,9 +158,7 @@ Displays movies with highest revenue.
 
 Shows movie release trends over years.
 
-```markdown
 ![Movies Per Year](images/movies_per_year.png)
-```
 
 ---
 
@@ -176,9 +166,7 @@ Shows movie release trends over years.
 
 Displays correlation between numerical features.
 
-```markdown
 ![Correlation Heatmap](images/correlation_heatmap.png)
-```
 
 ---
 

@@ -227,7 +227,7 @@ An interactive Power BI dashboard was created to visualize:
 Dashboard File:
 
 ```text
-dashboard/movie_dashboard.pbix
+dashboard/dashboard.pbix
 ```
 
 ---

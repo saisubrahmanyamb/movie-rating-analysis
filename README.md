@@ -198,9 +198,8 @@ The model was evaluated using:
 
 Prediction results were visualized using scatter plots.
 
-```markdown
 ![Prediction Results](images/prediction_results.png)
-```
+
 
 ---
 
